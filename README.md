@@ -40,7 +40,7 @@ LastUpdated = [July 14th, 2017]
 * From here will be the documentations from the libray Phaser has provided for newcomers. This will be me following instructions and lab testing for mechanics, enviroments, to particles, etc. 
 
 
-< P >--- Tutorial Folders *TuT* ---< / P >
+< P >--- Tutorial Folders !TuT! ---< / P >
 
 * The folders with the *TuT* will be the indications of following guides/tutorial builds for the experience.
 
